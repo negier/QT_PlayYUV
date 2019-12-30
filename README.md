@@ -1,5 +1,5 @@
 # QT_PlayYUV
-使用OpenGL播放YUV数据,花了点时间来弄,所以舍不得丢.
+使用OpenGL播放YUV420数据,花了点时间来弄,所以舍不得丢.
 
 [主要代码查看](https://github.com/negier/QT_PlayYUV/blob/master/openglwindow/main.cpp)
 
